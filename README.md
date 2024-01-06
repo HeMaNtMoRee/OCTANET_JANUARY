@@ -1,6 +1,5 @@
-# 1st_Demo
-This is my first repository
+# OCTANET_JANUARY
 <br>
-Author: Hemant More
+<b>Task 1 of HTML and CSS</b>
 <br>
-Profficiency: Artificial Intilligence And Data Science
+Create a simple Landing Page using only HTML and CSS 
