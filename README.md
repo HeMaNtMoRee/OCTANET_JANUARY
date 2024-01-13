@@ -6,4 +6,5 @@ Create a simple Landing Page using only HTML and CSS
 <br>
 <br>
 <b>Task 2 of HTML&CSS JS</b>
+<br>
 Create a To Do List
